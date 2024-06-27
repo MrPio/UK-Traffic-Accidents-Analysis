@@ -23,3 +23,10 @@ Analysis of road traffic accidents in the United Kingdom over the period 2005-20
 ![dashboard2](https://github.com/MrPio/UK-Traffic-Accidents-Analysis/assets/22773005/13109f81-e92f-4f7d-ba09-b1fc1c3ea2e0)
 ![dashboard3](https://github.com/MrPio/UK-Traffic-Accidents-Analysis/assets/22773005/04f7c093-09ba-4d60-9b69-f24f04727bbd)
 ![accidents_2021](https://github.com/MrPio/UK-Traffic-Accidents-Analysis/assets/22773005/5cffb8f3-f0fc-4645-89ae-09f009364ad4)
+
+## The authors
+|        Author       |            Github profile           |
+|:-------------------:|:-----------------------------------:|
+|   Valerio Morelli   |       https://github.com/MrPio      |
+|  Federica Paganica  | https://github.com/federicapaganica |
+| Federico Staffolani |    https://github.com/fedeStaffo    |
