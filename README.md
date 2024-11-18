@@ -1,9 +1,9 @@
 # UK-Traffic-Accidents-Analysis
 Analysis of road traffic accidents in the United Kingdom over the period 2005-2017.
 
-📘 All the results are discussed (unfortunately in Italian) in the ![**thesis**](https://github.com/MrPio/UK-Traffic-Accidents-Analysis/blob/main/UK%20road%20accident%20analysis%20-%20Valerio%20Morelli%20Federica%20Paganica%20Federico%20Staffolani.pdf).
+📘 All the results are discussed (unfortunately in Italian) in the [**thesis**](https://github.com/MrPio/UK-Traffic-Accidents-Analysis/blob/main/UK%20road%20accident%20analysis%20-%20Valerio%20Morelli%20Federica%20Paganica%20Federico%20Staffolani.pdf).
 
-📌 The dataset: [https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles/code](https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles/code)
+📌 The dataset: [https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles/code](https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles)
 
 📈 The dashboards that have been designed are as follows:
 
